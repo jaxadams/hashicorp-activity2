@@ -1,11 +1,11 @@
 # Instructions
-Please review and revise the multiple-choice question (multiple-choice-question.md) and performance-based scenario (performance-based-scenario.md). We have provided a simplified style guide, but it is not an exhaustive list of things to check for. Please edit the question based on your own knowledge, opinions, and experience. Feel free to use GitHub comments to explain your thought process, or assumptions you have made or not made. We are not expecting you to edit these items exactly how we would, we are more interested in your approach to assessment editing.
+Please review and revise the multiple-choice question (`multiple-choice-question.md`) and performance-based scenario (`performance-based-scenario.md`). We have provided a simplified style guide, but it is not an exhaustive list of things to check for. Please edit the question based on your own knowledge, opinions, and experience. Feel free to use GitHub comments to explain your thought process, or assumptions you have made or not made. We are not expecting you to edit these items exactly how we would, we are more interested in your approach to assessment editing.
 
 **Note about `multiple-choice-question.md`:** During production, our multiple-choice questions are formatted with the answers in the YAML front matter, followed by the question itself in markdown. This (backwards) format is rendered during the exam experience to look like a multiple-choice question should—with the question first followed by clickable radio buttons next to each possible answer. Here is what the activity question might look like on the exam-platform:
 
-**Note about `performance-based-scenario.md`:** You can assume the candidate has access to the lab environment described in the scenario and instructions on how to access it.
-
 ![markdown example of performance-based layout](/images/hashicorp-activity-multiple-choice-screenshot.PNG)
+
+**Note about `performance-based-scenario.md`:** You can assume the candidate has access to the lab environment described in the scenario and instructions on how to access it.
 
 ## Steps
 1. Create a PR (pull request) with your edits for both items, or one PR for each item, whichever you'd prefer. The number of commits will not affect your results.
